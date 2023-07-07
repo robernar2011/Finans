@@ -7,9 +7,11 @@ This repository contains a project of a RESPONSIVE website that offers financial
 This project was developed during the [Complete Web Development](https://www.udemy.com/course/web-completo/) course (Section Bootstrap4 and Responsive Design) held at UDEMY.
 
 * Home Page Desktop
+
 ![Prototype](./img/HomePageFinansDesktop.jpg)
 
 * Home Page Responsive
+
 ![Prototype](./img/HomePageFinansResponsive.jpg)
 
 # 🧠 About
